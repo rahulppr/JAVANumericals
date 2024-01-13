@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class P4 {
     public static void main(String[] args) {
-        //.How to get Using input using Scanner
+        //.How to get  value giving input using Scanner
         //Program in java
 
         int a;

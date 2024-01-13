@@ -6,7 +6,8 @@ public class P12 {
 
         int obtainedMarks,passingMarks;
         Scanner sc = new Scanner(System.in);
-        passingMarks = 40;
+        System.out.println("Enter the passing marks");
+        passingMarks = sc.nextInt();
         System.out.println("Enter the Obtained marks");
         obtainedMarks = sc.nextInt();
         if(obtainedMarks>=passingMarks){

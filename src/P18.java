@@ -11,7 +11,7 @@ public class P18 {
             for (noOfStars=1;noOfStars<=rows;noOfStars++){
                 System.out.print(" * ");
             }
-            System.out.println(" * ");
+            System.out.println(" ");
         }
     }
 }

@@ -8,7 +8,7 @@ public class P13 {
         char grade;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Marks");
-        passingMarks = 40;
+        passingMarks = 33;
         obtainedMarks = sc.nextInt();
         if(obtainedMarks>=passingMarks){
             if (obtainedMarks>90){
